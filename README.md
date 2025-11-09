@@ -56,10 +56,17 @@ It highlights how ad creatives, audiences, and formats perform to help marketing
 - Power BI / Tableau / Excel → Dashboard & visualization
 - Python / Excel → Data cleaning and transformation
 - Meta Ads Data → Ad campaign performance metrics
-  
----
+
+  ---
 
 ## 📈 Project Outcome
 - Improved understanding of marketing funnel performance.
 - Identified audience and time-based optimization opportunities.
 - Supported data-driven decision-making for ad budget allocation.
+
+---
+
+**Abhishek Kumar**
+Data Analyst
+📧 Email: abhishek.email@example.com
+🔗 [LinkedIn](www.linkedin.com/in/abhishek-kumar-692082172)
