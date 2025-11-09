@@ -66,7 +66,8 @@ It highlights how ad creatives, audiences, and formats perform to help marketing
 
 ---
 
+## Author & Contact
 **Abhishek Kumar**
-Data Analyst
-📧 Email: abhishek.email@example.com
-🔗 [LinkedIn](www.linkedin.com/in/abhishek-kumar-692082172)
+(Data Analyst)
+- 📧 Email: abhishek.email@example.com
+- 🔗 [LinkedIn](www.linkedin.com/in/abhishek-kumar-692082172)
