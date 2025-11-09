@@ -1,6 +1,6 @@
 # Meta-Ad-Performance-Dashboard
 
-## 🧠 Project Overview
+## About the Project
 This project demonstrates my ability to analyze, visualize, and interpret marketing data effectively using analytical tools.
 As part of my MBA in Human Resource Management (HRM), I focus on using data-driven insights to understand consumer behavior, campaign performance, and ROI improvement.
 This dashboard reflects a business-oriented data storytelling approach — the kind recruiters and managers look for in data, marketing, and HR analytics roles.
@@ -33,4 +33,20 @@ It highlights how ad creatives, audiences, and formats perform to help marketing
 - Story ads performed well, while image and carousel formats lagged behind.
 - Recommendation: Focus ad spend on Video and Story formats for better ROI.
 
+## Recommendations
 
+- Improve landing page design and post-click experience.
+- Allocate higher budget to Video and Story ad formats.
+-  Focus targeting on females (18–30) in India & Brazil and conversion-focused audiences in Germany & UK.
+-  Schedule campaigns for afternoon and evening slots.
+- Use event-based marketing to leverage engagement peaks.
+
+## Tools & Technologies
+- Power BI / Tableau / Excel → Dashboard & visualization
+- Python / Excel → Data cleaning and transformation
+- Meta Ads Data → Ad campaign performance metrics
+
+## Project Outcome
+- Improved understanding of marketing funnel performance.
+- Identified audience and time-based optimization opportunities.
+- Supported data-driven decision-making for ad budget allocation.
