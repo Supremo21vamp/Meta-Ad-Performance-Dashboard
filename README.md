@@ -12,8 +12,8 @@ It highlights how ad creatives, audiences, and formats perform to help marketing
 ## Key Insights
 
 ## 1. High Awareness & Engagement
--216K impressions and 25.4K clicks → CTR of 11.76%, well above industry standards.
--Engagement rate of 13.56%, showing strong user interaction with ad creatives.
+*216K impressions and 25.4K clicks → CTR of 11.76%, well above industry standards.
+*Engagement rate of 13.56%, showing strong user interaction with ad creatives.
 
 ## 2. Conversion Gap
 -Only 1.3K purchases → 5.21% conversion rate from clicks.
