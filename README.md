@@ -71,3 +71,8 @@ It highlights how ad creatives, audiences, and formats perform to help marketing
 (Data Analyst)
 - 📧 Email: abhishek.email@example.com
 - 🔗 [LinkedIn](www.linkedin.com/in/abhishek-kumar-692082172)
+
+---
+
+## Dashboard
+![Screenshot](https://github.com/abhishekkumar1612/Meta-Ad-Performance-Dashboard/blob/main/Meta%20Ad%20Performance%20Dashboard.png)
